@@ -21,3 +21,6 @@
 - [Сборный проект 2](https://github.com/janegris/yandex_practicum_data_science/tree/main/7_Project%202 "Project7")
 - [Градиентный бустинг. Определение стоимости автомобилей](https://github.com/janegris/yandex_practicum_data_science/tree/main/8_CarCost "Project8")
 - [Временные ряды. Прогнозирование заказов такси](https://github.com/janegris/yandex_practicum_data_science/tree/main/9_TaxiOrdersPrediction "Project9")
+
+## Вывод
+Были получен опыт в предварительной обработке данных, в исследовательском анализе данных, в построении моделей классификации и регрессии, в работе с различными техниками и в работе с временными рядами.
