@@ -8,6 +8,8 @@
 - время обучения модели;
 - время предсказания модели.
 
+Если файл блокнота не загружается воспользуйтесь ссылкой https://colab.research.google.com/drive/1m66w2Mya1slWQmyllAxYxfSnn2AaNvVf?usp=sharing
+
 ## Используемые технологии и библиотеки
 - Python
 - Pandas, Seaborn, Numpy, Scikit-learn
